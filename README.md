@@ -1,2 +1,2 @@
-# HTML-Boilerplate
-Simple HTML Boilerplate
+# HTML Boilerplate
+Simple HTML Boilerplate using webpack

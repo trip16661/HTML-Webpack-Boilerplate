@@ -1,0 +1,14 @@
+/* TEAM */
+
+	Web Developer: Elbert Cortez
+	Twitter: @trip1666
+	From: Caracas, Venezuela
+
+/* SITE */
+
+	Last update: 14 / 08 / 2017
+	Language: English / Castellano
+	Doctype: HTML5
+    Standards: HTML5, CSS3(Sass), JavaScript
+    Software: git, github, cmder
+	IDE: Visual Studio Code, Photoshop, Ilustrator
